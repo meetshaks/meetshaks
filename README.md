@@ -35,4 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetshaks&show_icons=true&locale=en" alt="meetshaks" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetshaks&" alt="meetshaks" /></p>
+<div style="text-align: center;">
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetshaks&show_icons=true&locale=en" alt="meetshaks" /></p>
+</div>
