@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shakilahmedshaks@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Very Funny. e.g-Did you know that the average person laughs about 15 times a day? That's about 10,950 laughs per year! Laughter is good for your health, so make sure to laugh often.**
+- ⚡ Fun fact **-I Think I Am Very Funny. e.g-Did you know that the average person laughs about 15 times a day? That's about 10,950 laughs per year! Laughter is good for your health, so make sure to laugh often.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
