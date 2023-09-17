@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meet_shaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meet_shaks" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/shakil mia](https://www.linkedin.com/in/shakil-ahmed-21a04922b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmed4024@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shakil-ahmed-21a04922b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmed4024@gmail.com" height="30" width="40" /></a>
 <a href="https://www.facebook.com/itzshaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzshaks" height="30" width="40" /></a>
 <a href="https://instagram.com/meet_shaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_shaks" height="30" width="40" /></a>
 </p>
