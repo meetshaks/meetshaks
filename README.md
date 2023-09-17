@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/meet_shaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meet_shaks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shakil mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmed4024@gmail.com" height="30" width="40" /></a>
-<a href="https://fb.com/shakil ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzshaks" height="30" width="40" /></a>
+<a href="[https://fb.com/shakil ahmed](https://www.facebook.com/itzshaks)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzshaks" height="30" width="40" /></a>
 <a href="https://instagram.com/meet_shaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_shaks" height="30" width="40" /></a>
 </p>
 
